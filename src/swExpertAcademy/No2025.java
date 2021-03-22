@@ -14,6 +14,7 @@ public class No2025 {
 		for (int i = 1; i <= num; i++) {
 			sum = sum += i;
 		}
+		
 		System.out.print(sum);
 
 	}
