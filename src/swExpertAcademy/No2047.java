@@ -1,4 +1,4 @@
-package CodingTest;
+package swExpertAcademy;
 
 import java.util.Scanner;
 

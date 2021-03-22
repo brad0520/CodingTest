@@ -1,4 +1,4 @@
-package javaStudy;
+package swExpertAcademy;
 
 import java.util.Scanner;
 
