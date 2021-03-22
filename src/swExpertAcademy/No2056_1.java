@@ -33,6 +33,7 @@ public class No2056_1 {
 					check = 1;
 					break;
 				}
+//				샘플데이터 20140230 을 오류 데이터로 검출하지 못하는 부분 확인 필
 			case 3:
 				if (d <= 31) {
 					check = 1;
